@@ -10,6 +10,11 @@ Con la plataforma de **Ion GeneStudio S5** se secuenciarán 55 DNA de tumores de
 
 En este proyecto se pretende identificar mutaciones especificas que se encuentren solo en las muestras de cancer de prostata y que puedan llavar al desarrollo de esta enfermedad. 
 
-Los datos de las secuenciación son en formato bam  
-Hasta la fecha tengo 20 muestas secuenciasdos. 
+
+Para el análisis de los datos primero se hará el preprocesamiento de los datos, posteriormente se buscaran mutaciones especificas en las muestras de tumores, para este paso se hará un alineamiento de las secuencias de tumores con la secuencia de referencia de cada gen analizado y después también se alinearan con los controles (sin cáncer).  
+
+Los datos de la secuenciación son en formato bam y hasta la fecha tengo 20 muestras secuenciadas. 
+
+Respecto al Softwere todavía no estoy segura de cual puedo usar. 
+
 
